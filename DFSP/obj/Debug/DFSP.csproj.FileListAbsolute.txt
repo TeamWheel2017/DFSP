@@ -1,0 +1,11 @@
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\bin\Debug\DFSP.exe.config
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\bin\Debug\DFSP.exe
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\bin\Debug\DFSP.pdb
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Debug\DFSP.csprojResolveAssemblyReference.cache
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Debug\DFSP.Properties.Resources.resources
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Debug\DFSP.csproj.GenerateResource.Cache
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Debug\DFSP.csproj.CoreCompileInputs.cache
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Debug\DFSP.exe
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Debug\DFSP.pdb
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Debug\DFSP.Form1.resources
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Debug\DFSP.DirectoryChooser.resources

@@ -1,0 +1,10 @@
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\bin\Release\DFSP.exe.config
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\bin\Release\DFSP.exe
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\bin\Release\DFSP.pdb
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Release\DFSP.DirectoryChooser.resources
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Release\DFSP.Form1.resources
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Release\DFSP.Properties.Resources.resources
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Release\DFSP.csproj.GenerateResource.Cache
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Release\DFSP.csproj.CoreCompileInputs.cache
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Release\DFSP.exe
+D:\Windows 8.1\Program Data\Visual Studio 2017 Projects\DFSP\DFSP\obj\Release\DFSP.pdb
