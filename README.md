@@ -4,7 +4,7 @@ DFSP : Duplicate File Search Program
 
 ----------
 
-다운로드 링크 : [DFSP(v1.0).exe](https://github.com/TeamWheel2017/DFSP/blob/master/DFSP/bin/Release/DFSP.exe)
+다운로드 링크 : [DFSP(v1.0).exe](https://github.com/TeamWheel2017/DFSP/raw/master/DFSP/bin/Release/DFSP.exe)
 
 DFSP는 파일 중복을 빠르게 확인할 수 있는 프로그램입니다.
 입력된 디렉토리의 파일들 중 중복 파일을 검색하여, 그 결과를 'DFSP Result.html'이라는 이름의 html 파일로 출력합니다.
